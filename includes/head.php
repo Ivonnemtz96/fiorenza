@@ -1,9 +1,9 @@
 <head>
     <meta charset="utf-8">
-    <title>Delici - Restaurants HTML Template - Home 01</title>
+    <title>Fiorenza Ristorante</title>
     <!-- Stylesheets -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
     <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
     <link rel="icon" href="images/favicon.png" type="image/x-icon">
     <!-- Responsive -->
