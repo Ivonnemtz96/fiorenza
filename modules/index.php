@@ -1302,6 +1302,11 @@
 </section>
 
 <section class="mapa" style="filter: grayscale(70%);">
+    <div class="title-box centered mt-5 mb-5">
+        <div class="subtitle"><span>Descubre la mejor experiencia culinaria</span></div>
+        <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
+        <h2>Situado en el corazón de San José</h2>
+    </div>
     <iframe
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1754.939255623464!2d-109.69449846841431!3d23.0602036855935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509e9c090435%3A0x597a2d0b5755c811!2sFiorenza%20Italian%20Restaurant!5e0!3m2!1ses-419!2smx!4v1672270501954!5m2!1ses-419!2smx"
         width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy"
