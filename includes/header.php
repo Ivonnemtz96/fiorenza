@@ -5,16 +5,16 @@
              <div class="inner clearfix">
                  <div class="top-left clearfix">
                      <ul class="top-info clearfix">
-                         <li><i class="icon far fa-map-marker-alt"></i> Restaurant St, Delicious City, London 9578, UK
+                         <li> <a target="_blank" href="https://goo.gl/maps/h7DwLPqTh6f6PsGAA"><i class="icon far fa-map-marker-alt"></i>Fiorenza Ristorante Italiano, San José del Cabo</a>
                          </li>
-                         <li><i class="icon far fa-clock"></i> Daily : 8.00 am to 10.00 pm</li>
+                         <li><i class="icon far fa-clock"></i> Diario : 1:00 pm to 11:00 pm</li>
                      </ul>
                  </div>
                  <div class="top-right clearfix">
                      <ul class="top-info clearfix">
-                         <li><a href="tel:+11234567890"><i class="icon far fa-phone"></i> +1 123 456 7890</a></li>
-                         <li><a href="mailto:booking@restaurant.com"><i class="icon far fa-envelope"></i>
-                                 booking@restaurant.com</a></li>
+                         <li><a href="tel:+526241421652"><i class="icon far fa-phone"></i> (624) 142-1652</a></li>
+                         <li><a href="mailto:info@fiorenzaloscabos.com"><i class="icon far fa-envelope"></i>
+                                 info@fiorenzaloscabos.com</a></li>
                      </ul>
                  </div>
              </div>
@@ -36,7 +36,7 @@
                      <div class="nav-outer clearfix">
                          <nav class="main-menu">
                              <ul class="navigation clearfix">
-                                 <li class="current"><a href="index.html">Home</a>
+                                 <li class="current"><a href="index.html">Inicio</a>
                                  </li>
                                  <li class="dropdown has-mega-menu"><a href="menu-list.html">Menus</a>
                                      <ul>
@@ -80,9 +80,10 @@
                                          </li>
                                      </ul>
                                  </li>
-                                 <li><a href="about.html">About Us</a></li>
-                                 <li><a href="our-chef.html">Our chefs</a></li>
-                                 <li class="dropdown"><a href="#">Pages</a>
+                                 <li><a href="about.html">Team</a></li>
+                                 <li><a href="our-chef.html">Menú</a></li>
+                                 <li><a href="our-chef.html">Galería</a></li>
+                                 <!-- <li class="dropdown"><a href="#">Pages</a>
                                      <ul>
                                          <li><a href="#">Dropdown Menu 1</a></li>
                                          <li><a href="#">Dropdown Menu 2</a></li>
@@ -96,7 +97,7 @@
                                          </li>
                                          <li><a href="#">Dropdown Lorem 5</a></li>
                                      </ul>
-                                 </li>
+                                 </li> -->
                                  <li><a href="contact-us.html">Contact</a></li>
                              </ul>
                          </nav>
