@@ -5,7 +5,9 @@
              <div class="inner clearfix">
                  <div class="top-left clearfix">
                      <ul class="top-info clearfix">
-                         <li> <a target="_blank" href="https://goo.gl/maps/h7DwLPqTh6f6PsGAA"><i class="icon far fa-map-marker-alt"></i>Fiorenza Ristorante Italiano, San José del Cabo</a>
+                         <li> <a target="_blank" href="https://goo.gl/maps/h7DwLPqTh6f6PsGAA"><i
+                                     class="icon far fa-map-marker-alt"></i>Fiorenza Ristorante Italiano, San José del
+                                 Cabo</a>
                          </li>
                          <li><i class="icon far fa-clock"></i> Diario : 1:00 pm to 11:00 pm</li>
                      </ul>
@@ -38,7 +40,7 @@
                              <ul class="navigation clearfix">
                                  <li class="current"><a href="index.html">Inicio</a>
                                  </li>
-                                 <li class="dropdown has-mega-menu"><a href="menu-list.html">Menus</a>
+                                 <!-- <li class="dropdown has-mega-menu"><a href="menu-list.html">Menus</a>
                                      <ul>
                                          <li>
                                              <div class="mega-menu">
@@ -79,7 +81,7 @@
                                              </div>
                                          </li>
                                      </ul>
-                                 </li>
+                                 </li> -->
                                  <li><a href="about.html">Team</a></li>
                                  <li><a href="our-chef.html">Menú</a></li>
                                  <li><a href="our-chef.html">Galería</a></li>
@@ -98,7 +100,7 @@
                                          <li><a href="#">Dropdown Lorem 5</a></li>
                                      </ul>
                                  </li> -->
-                                 <li><a href="contact-us.html">Contact</a></li>
+                                 <li><a href="contact-us.html">Contacto</a></li>
                              </ul>
                          </nav>
                          <!-- Main Menu End-->
@@ -109,12 +111,12 @@
                          <div class="link link-btn">
                              <a href="reservation-opentable.html" class="theme-btn btn-style-one clearfix">
                                  <span class="btn-wrap">
-                                     <span class="text-one">find a table</span>
-                                     <span class="text-two">find a table</span>
+                                     <span class="text-one">Reservar</span>
+                                     <span class="text-two">Reservar</span>
                                  </span>
                              </a>
                          </div>
-                         <div class="link info-toggler">
+                         <!-- <div class="link info-toggler">
                              <button class="info-btn">
                                  <span class="hamburger">
                                      <span class="top-bun"></span>
@@ -122,7 +124,7 @@
                                      <span class="bottom-bun"></span>
                                  </span>
                              </button>
-                         </div>
+                         </div> -->
                      </div>
 
                      <!-- Hidden Nav Toggler -->
@@ -152,25 +154,25 @@
      <!-- Hidden Bar Wrapper -->
      <div class="inner-box">
          <div class="cross-icon hidden-bar-closer"><span class="far fa-close"></span></div>
-         <div class="logo-box"><a href="index.html" title="Delici - Restaurants HTML Template"><img
+         <div class="logo-box"><a href="index.html" title="Delici    - Restaurants HTML Template"><img
                      src="images/resource/sidebar-logo.png" alt="" title="Delici - Restaurants HTML Template"></a></div>
 
          <!-- .Side-menu -->
          <div class="side-menu">
              <ul class="navigation clearfix">
-                 <li class="current"><a href="index.html">Home</a>
-                 </li>
-                 <li class="dropdown"><a href="menu-list.html">Menus</a>
+                 <li class="current"><a href="index.html">Inicio</a></li>
+                 <!-- <li class="dropdown"><a href="menu-list.html">Menus</a>
                      <ul>
                          <li><a href="menu-list-1.html">Menu List 1</a></li>
                          <li><a href="menu-list-2.html">Menu List 2</a></li>
                          <li><a href="menu-list-3.html">Menu List 3</a></li>
                          <li><a href="menu-list-4.html">Menu List 4</a></li>
                      </ul>
-                 </li>
-                 <li><a href="about.html">About Us</a></li>
-                 <li><a href="our-chef.html">Our chefs</a></li>
-                 <li class="dropdown"><a href="#">Pages</a>
+                 </li> -->
+                 <li><a href="about.html">Team</a></li>
+                 <li><a href="our-chef.html">Menú</a></li>
+                 <li><a href="our-chef.html">Galería</a></li>
+                 <!-- <li class="dropdown"><a href="#">Pages</a>
                      <ul>
                          <li><a href="#">Dropdown Menu 1</a></li>
                          <li><a href="#">Dropdown Menu 2</a></li>
@@ -184,21 +186,26 @@
                          </li>
                          <li><a href="#">Dropdown Lorem 5</a></li>
                      </ul>
-                 </li>
-                 <li><a href="contact-us.html">Contact</a></li>
+                 </li> -->
+                 <li><a href="contact-us.html">Contacto</a></li>
              </ul>
          </div><!-- /.Side-menu -->
 
-         <h2>Visit Us</h2>
+         <h2>Visítanos</h2>
          <ul class="info">
-             <li>Restaurant St, Delicious City, <br>London 9578, UK</li>
-             <li>Open: 9.30 am - 2.30pm</li>
-             <li><a href="mailto:booking@domainame.com">booking@domainame.com</a></li>
+             <li>
+                 <a target="_blank" href="https://goo.gl/maps/h7DwLPqTh6f6PsGAA"><i
+                         class="icon far fa-map-marker-alt"></i>
+                     Fiorenza Ristorante Italiano, San José del Cabo
+                 </a>
+             </li>
+             <li>Lun - Dom: 1:30 pm - 11:00pm</li>
+             <li><a href="mailto: info@fiorenzaloscabos.com"> info@fiorenzaloscabos.com</a></li>
          </ul>
          <div class="separator"><span></span></div>
          <div class="booking-info">
-             <div class="bk-title">Booking request</div>
-             <div class="bk-no"><a href="tel:+88-123-123456">+88-123-123456</a></div>
+             <div class="bk-title">Reserva ahora</div>
+             <div class="bk-no"><a href="tel:+526241421652">(624) 142-1652</a></div>
          </div>
 
      </div><!-- / Hidden Bar Wrapper -->
