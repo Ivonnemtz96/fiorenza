@@ -1111,7 +1111,7 @@
 </section>
 
 <!--Team Section-->
-<section hidden class="team-section">
+<section hidden class="team-section" >
     <div class="left-bg"><img src="images/background/bg-21.png" alt="" title=""></div>
     <div class="right-bg"><img src="images/background/bg-9.png" alt="" title=""></div>
     <div class="auto-container">
@@ -1275,7 +1275,7 @@
 
 
 <!--Testimonials Section-->
-<section class="testimonials-section">
+<section class="testimonials-section" style="padding-top: 4rem; padding-bottom: 4rem;">
     <div class="image-layer" style="background-image: url(images/background/image-2.jpg);"></div>
     <div class="auto-container">
         <div class="carousel-box">
