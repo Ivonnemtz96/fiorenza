@@ -29,8 +29,8 @@
              <div class="main-box clearfix">
                  <!--Logo-->
                  <div class="logo-box">
-                     <div class="logo"><a href="index.html" title="Delici - Restaurants HTML Template"><img
-                                 src="images/logo.png" alt="" title="Delici - Restaurants HTML Template"></a></div>
+                     <div class="logo"><a href="/" title="Fiorenza Ristorante"><img src="images/logo.png" alt=""
+                                 title="Fiorenza Ristorante"></a></div>
                  </div>
 
                  <div class="nav-box clearfix">
@@ -38,7 +38,7 @@
                      <div class="nav-outer clearfix">
                          <nav class="main-menu">
                              <ul class="navigation clearfix">
-                                 <li class="current"><a href="index.html">Inicio</a>
+                                 <li class="current"><a href="/">Inicio</a>
                                  </li>
                                  <!-- <li class="dropdown has-mega-menu"><a href="menu-list.html">Menus</a>
                                      <ul>
@@ -82,9 +82,9 @@
                                          </li>
                                      </ul>
                                  </li> -->
-                                 <li><a href="about.html">Team</a></li>
-                                 <li><a href="our-chef.html">Menú</a></li>
-                                 <li><a href="our-chef.html">Galería</a></li>
+                                 <li><a href="/#equipo">Equipo</a></li>
+                                 <li><a href="/#menu">Menú</a></li>
+                                 <li><a href="/#galeria">Galería</a></li>
                                  <!-- <li class="dropdown"><a href="#">Pages</a>
                                      <ul>
                                          <li><a href="#">Dropdown Menu 1</a></li>
@@ -100,7 +100,7 @@
                                          <li><a href="#">Dropdown Lorem 5</a></li>
                                      </ul>
                                  </li> -->
-                                 <li><a href="contact-us.html">Contacto</a></li>
+                                 <li><a href="/#contacto">Contacto</a></li>
                              </ul>
                          </nav>
                          <!-- Main Menu End-->
@@ -154,13 +154,13 @@
      <!-- Hidden Bar Wrapper -->
      <div class="inner-box">
          <div class="cross-icon hidden-bar-closer"><span class="far fa-close"></span></div>
-         <div class="logo-box"><a href="index.html" title="Delici    - Restaurants HTML Template"><img
-                     src="images/resource/sidebar-logo.png" alt="" title="Delici - Restaurants HTML Template"></a></div>
+         <div class="logo-box"><a href="/" title="Fiorenza"><img
+                     src="images/resource/sidebar-logo.png" alt="Fiorenza logo" title="Fiorenza"></a></div>
 
          <!-- .Side-menu -->
          <div class="side-menu">
              <ul class="navigation clearfix">
-                 <li class="current"><a href="index.html">Inicio</a></li>
+                 <li class="current"><a href="/">Inicio</a></li>
                  <!-- <li class="dropdown"><a href="menu-list.html">Menus</a>
                      <ul>
                          <li><a href="menu-list-1.html">Menu List 1</a></li>
@@ -169,9 +169,9 @@
                          <li><a href="menu-list-4.html">Menu List 4</a></li>
                      </ul>
                  </li> -->
-                 <li><a href="about.html">Team</a></li>
-                 <li><a href="our-chef.html">Menú</a></li>
-                 <li><a href="our-chef.html">Galería</a></li>
+                 <li><a href="/#equipo">Equipo</a></li>
+                 <li><a href="/#menu">Menú</a></li>
+                 <li><a href="/#galeria">Galería</a></li>
                  <!-- <li class="dropdown"><a href="#">Pages</a>
                      <ul>
                          <li><a href="#">Dropdown Menu 1</a></li>
@@ -187,7 +187,7 @@
                          <li><a href="#">Dropdown Lorem 5</a></li>
                      </ul>
                  </li> -->
-                 <li><a href="contact-us.html">Contacto</a></li>
+                 <li><a href="/#contacto">Contacto</a></li>
              </ul>
          </div><!-- /.Side-menu -->
 
