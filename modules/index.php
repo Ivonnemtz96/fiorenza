@@ -45,17 +45,17 @@
                             <div class="content">
                                 <div class="clearfix">
                                     <div class="inner">
-                                        <div class="subtitle"><span>amazing & delicious</span></div>
+                                        <div class="subtitle"><span>Exquisito</span></div>
                                         <div class="pattern-image"><img src="images/icons/separator.svg" alt=""
                                                 title=""></div>
-                                        <h1><span>Where every flavor <br>tells a story</span></h1>
-                                        <div class="text">Come with family & feel the joy of mouthwatering food</div>
+                                        <h1><span>Conquistamos el<br> paladar más exigente</span></h1>
+                                        <div class="text">Te aseguramos que te encantará</div>
                                         <div class="links-box clearfix">
                                             <div class="link">
-                                                <a href="menu-list-2.html" class="theme-btn btn-style-two clearfix">
+                                                <a target="_blank" href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=28e8fc3b-bf66-4d0c-b80d-44111890b98b" class="theme-btn btn-style-two clearfix">
                                                     <span class="btn-wrap">
-                                                        <span class="text-one">view our menu</span>
-                                                        <span class="text-two">view our menu</span>
+                                                        <span class="text-one">Reservar</span>
+                                                        <span class="text-two">Reservar</span>
                                                     </span>
                                                 </a>
                                             </div>
@@ -75,17 +75,17 @@
                             <div class="content">
                                 <div class="clearfix">
                                     <div class="inner">
-                                        <div class="subtitle"><span>Tradational & Hygine</span></div>
+                                        <div class="subtitle"><span>Casa de la auténtica comida Italiana</span></div>
                                         <div class="pattern-image"><img src="images/icons/separator.svg" alt=""
                                                 title=""></div>
-                                        <h1><span>For the love of <br>delicious food</span></h1>
-                                        <div class="text">Come with family & feel the joy of mouthwatering food</div>
+                                        <h1><span>El placer de degustar <br> exquisitos platillos</span></h1>
+                                        <div class="text">Dejja que nuestro sabor inunde tu paladar</div>
                                         <div class="links-box clearfix">
                                             <div class="link">
-                                                <a href="menu-list-3.html" class="theme-btn btn-style-two clearfix">
+                                                <a target="_blank" href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=28e8fc3b-bf66-4d0c-b80d-44111890b98b" class="theme-btn btn-style-two clearfix">
                                                     <span class="btn-wrap">
-                                                        <span class="text-one">view our menu</span>
-                                                        <span class="text-two">view our menu</span>
+                                                        <span class="text-one">Reservar</span>
+                                                        <span class="text-two">Reservar</span>
                                                     </span>
                                                 </a>
                                             </div>
@@ -160,7 +160,7 @@
 
 <!--Story Section-->
 <section class="story-section">
-    <div class="left-bg"><img src="images/background/bg-3.png" alt="" title=""></div>
+    <!-- <div class="left-bg"><img src="images/background/bg-3.png" alt="" title=""></div> -->
     <div class="auto-container">
         <div class="row clearfix">
             <!--Col-->
@@ -210,8 +210,8 @@
 
 <!--Why Us Section-->
 <section class="why-us">
-    <div class="left-bg"><img src="images/background/bg-8.png" alt="" title=""></div>
-    <div class="right-bg"><img src="images/background/bg-7.png" alt="" title=""></div>
+    <!-- <div class="left-bg"><img src="images/background/bg-8.png" alt="" title=""></div>
+    <div class="right-bg"><img src="images/background/bg-7.png" alt="" title=""></div> -->
     <div class="auto-container">
         <div class="title-box centered">
             <div class="subtitle"><span>¿Porqué elegirnos?</span></div>
@@ -262,7 +262,7 @@
 
 <!--Special Dish Section-->
 <section class="special-dish">
-    <div class="bottom-image"><img src="images/resource/image-3.png" alt="" title=""></div>
+    <!-- <div class="bottom-image"><img src="images/resource/image-3.png" alt="" title=""></div> -->
     <div class="outer-container">
         <div class="row clearfix">
             <!--Col-->
@@ -868,6 +868,11 @@
 
 <!--Gallery Section-->
 <section class="image-gallery">
+    <div class="title-box centered mt-5 mb-5">
+        <div class="subtitle"><span>De la vista nace el amor</span></div>
+        <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
+        <h2>Nuestra Galería</h2>
+    </div>
     <div class="carousel-box">
         <div class="auto-container">
             <div class="image-gallery-slider owl-theme owl-carousel">
@@ -1044,11 +1049,10 @@
                     <div class="text-block">
                         <div class="bl-inner">
                             <div class="content">
-                                <div class="subtitle">best menu</div>
-                                <h3>Special Dishes</h3>
-                                <div class="text">Lorem Ipsum is simply dummy printing.</div>
-                                <div class="link"><a href="menu-list-1.html" class="theme-btn"><span>view
-                                            menu</span></a></div>
+                                <div class="subtitle">Cocina Mexicana</div>
+                                <h3>Jazmin's Restaurant</h3>
+                                <div class="text">El auténtico sabor de la comida mexicana</div>
+                                <div class="link"><a target="_blank" href="https://jazminsrestaurant.com/" class="theme-btn"><span>Ver restaurante</span></a></div>
                             </div>
                         </div>
                     </div>
@@ -1069,11 +1073,10 @@
                     <div class="text-block">
                         <div class="bl-inner">
                             <div class="content">
-                                <div class="subtitle">Latest</div>
-                                <h3>Upcoming Events</h3>
-                                <div class="text">Simply dummy printing and setting.</div>
-                                <div class="link"><a href="menu-list-2.html" class="theme-btn"><span>join
-                                            event</span></a></div>
+                                <div class="subtitle">Fiorenza Ristorante Italiano by</div>
+                                <h3>Grupo ALCARI</h3>
+                                <div class="text">Auténtica comida Italiana</div>
+                                <div class="link"><a target="_blank" href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=45696517-027b-40c2-9d97-1e810acc89bd" class="theme-btn"><span>Reservar</span></a></div>
                             </div>
                         </div>
                     </div>
@@ -1086,11 +1089,10 @@
                     <div class="text-block">
                         <div class="bl-inner">
                             <div class="content">
-                                <div class="subtitle">selected</div>
-                                <h3>Chef Choice</h3>
-                                <div class="text">Dummy printing lorem Ipsum simply.</div>
-                                <div class="link"><a href="menu-list-3.html" class="theme-btn"><span>view
-                                            menu</span></a></div>
+                                <div class="subtitle">Cocina japonesa</div>
+                                <h3>Tei Sushi</h3>
+                                <div class="text">Degusta la mejor comida japonesa en el corazón de San José.</div>
+                                <div class="link"><a target="_blank" href="https://www.teisushi.com/" class="theme-btn"><span>Ver restaurante</span></a></div>
                             </div>
                         </div>
                     </div>
@@ -1214,37 +1216,37 @@
                 <div class="fact-block col-lg-3 col-md-6 col-sm-12">
                     <div class="inner clearfix">
                         <div class="fact-count">
-                            <div class="count-box"><span class="count-text" data-stop="150"
+                            <div class="count-box"><span class="count-text" data-stop="250"
                                     data-speed="2000">0</span><i>+</i></div>
                         </div>
-                        <div class="fact-title">daily <br>order</div>
+                        <div class="fact-title">Comensales <br>al día</div>
                     </div>
                 </div>
                 <div class="fact-block col-lg-3 col-md-6 col-sm-12">
                     <div class="inner clearfix">
                         <div class="fact-count">
-                            <div class="count-box"><span class="count-text" data-stop="82"
+                            <div class="count-box"><span class="count-text" data-stop="500"
                                     data-speed="1500">0</span><i>+</i></div>
                         </div>
-                        <div class="fact-title">Special <br>Dishes</div>
+                        <div class="fact-title">Platillos <br>Servidos</div>
                     </div>
                 </div>
                 <div class="fact-block col-lg-3 col-md-6 col-sm-12">
                     <div class="inner clearfix">
                         <div class="fact-count">
-                            <div class="count-box"><span class="count-text" data-stop="35"
+                            <div class="count-box"><span class="count-text" data-stop="12"
                                     data-speed="1000">0</span><i>+</i></div>
                         </div>
-                        <div class="fact-title">expert <br>chef</div>
+                        <div class="fact-title">Años de<br>servicio</div>
                     </div>
                 </div>
                 <div class="fact-block col-lg-3 col-md-6 col-sm-12">
                     <div class="inner clearfix">
                         <div class="fact-count">
-                            <div class="count-box"><span class="count-text" data-stop="10"
+                            <div class="count-box"><span class="count-text" data-stop="800"
                                     data-speed="1000">0</span><i>+</i></div>
                         </div>
-                        <div class="fact-title">awards <br>won</div>
+                        <div class="fact-title">Clientes <br>Satisfechos</div>
                     </div>
                 </div>
             </div>
