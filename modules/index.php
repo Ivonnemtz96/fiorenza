@@ -52,7 +52,9 @@
                                         <div class="text">Te aseguramos que te encantará</div>
                                         <div class="links-box clearfix">
                                             <div class="link">
-                                                <a target="_blank" href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=28e8fc3b-bf66-4d0c-b80d-44111890b98b" class="theme-btn btn-style-two clearfix">
+                                                <a target="_blank"
+                                                    href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=28e8fc3b-bf66-4d0c-b80d-44111890b98b"
+                                                    class="theme-btn btn-style-two clearfix">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">Reservar</span>
                                                         <span class="text-two">Reservar</span>
@@ -79,10 +81,12 @@
                                         <div class="pattern-image"><img src="images/icons/separator.svg" alt=""
                                                 title=""></div>
                                         <h1><span>El placer de degustar <br> exquisitos platillos</span></h1>
-                                        <div class="text">Dejja que nuestro sabor inunde tu paladar</div>
+                                        <div class="text">Deja que nuestro sabor inunde tu paladar</div>
                                         <div class="links-box clearfix">
                                             <div class="link">
-                                                <a target="_blank" href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=28e8fc3b-bf66-4d0c-b80d-44111890b98b" class="theme-btn btn-style-two clearfix">
+                                                <a target="_blank"
+                                                    href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=28e8fc3b-bf66-4d0c-b80d-44111890b98b"
+                                                    class="theme-btn btn-style-two clearfix">
                                                     <span class="btn-wrap">
                                                         <span class="text-one">Reservar</span>
                                                         <span class="text-two">Reservar</span>
@@ -127,19 +131,19 @@
             <!--Block-->
             <div class="offer-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                    <div class="image"><a href="menu-list-1.html"><img src="images/resource/offer-image-1.jpg"
+                    <div class="image"><a href="#"><img src="images/resource/offer-image-1.jpg"
                                 alt=""></a></div>
-                    <h3><a href="menu-list-1.html">Pastas</a></h3>
-                    <!-- <div class="more-link"><a href="menu-list-1.html">view menu</a></div> -->
+                    <h3><a href="#">Pastas</a></h3>
+                    <!-- <div class="more-link"><a href="#">view menu</a></div> -->
                 </div>
             </div>
 
             <!--Block-->
             <div class="offer-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
-                    <div class="image"><a href="menu-list-2.html"><img src="images/resource/offer-image-2.jpg"
+                    <div class="image"><a href="#"><img src="images/resource/offer-image-2.jpg"
                                 alt=""></a></div>
-                    <h3><a href="menu-list-2.html">Pizzas</a></h3>
+                    <h3><a href="#">Pizzas</a></h3>
                     <!-- <div class="more-link"><a href="menu-list-2.html">view menu</a></div> -->
                 </div>
             </div>
@@ -147,10 +151,10 @@
             <!--Block-->
             <div class="offer-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
-                    <div class="image"><a href="menu-list-3.html"><img src="images/resource/offer-image-3.jpg"
+                    <div class="image"><a href="#"><img src="images/resource/offer-image-3.jpg"
                                 alt=""></a></div>
-                    <h3><a href="menu-list-3.html">Bebidas</a></h3>
-                    <!-- <div class="more-link"><a href="menu-list-3.html">view menu</a></div> -->
+                    <h3><a href="#">Bebidas</a></h3>
+                    <!-- <div class="more-link"><a href="#">view menu</a></div> -->
                 </div>
             </div>
 
@@ -173,7 +177,7 @@
                         <div class="text">
                             Desde 2012 en Fiorenza, de la ciudad de Florencia, el Chef Roberto Persi y su esposa
                             Fiorenza han trabajado duro para traer lo mejor de Italia a Los Cabos. <br>
-                            Perteneciente al Gripo ALCARI, el grupo más grande de Los Cabos.
+                            Perteneciente al Grupo ALCARI, el grupo más grande de Los Cabos.
                         </div>
                     </div>
                     <div class="booking-info">
@@ -263,7 +267,7 @@
 <!--Special Dish Section-->
 <section class="special-dish">
     <!-- <div class="bottom-image"><img src="images/resource/image-3.png" alt="" title=""></div> -->
-    <div class="outer-container">
+    <div class="outer-container" id="equipo">
         <div class="row clearfix">
             <!--Col-->
             <div class="image-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
@@ -310,7 +314,7 @@
 <section class="menu-section">
     <div class="left-bg"><img src="images/background/bg-5.png" alt="" title=""></div>
     <div class="right-bg"><img src="images/background/bg-6.png" alt="" title=""></div>
-    <div class="auto-container">
+    <div class="auto-container" id="menu">
         <div class="title-box centered">
             <div class="subtitle"><span>Déjate llevar por nuestros platillos</span></div>
             <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
@@ -320,429 +324,67 @@
         <div class="tabs-box menu-tabs">
             <div class="buttons">
                 <ul class="tab-buttons clearfix">
-                    <li class="tab-btn active-btn" data-tab="#tab-1"><span>Pastas</span></li>
-                    <li class="tab-btn" data-tab="#tab-2"><span>Pizzas</span></li>
-                    <li class="tab-btn" data-tab="#tab-3"><span>Platos fuertes</span></li>
-                    <li class="tab-btn" data-tab="#tab-4"><span>Bebidas</span></li>
+                    <li class="tab-btn active-btn" data-tab="#tab-1"><span>Entradas</span></li>
+                    <li class="tab-btn" data-tab="#tab-2"><span>Pastas</span></li>
+                    <li class="tab-btn" data-tab="#tab-3"><span>Pizzas</span></li>
+                    <li class="tab-btn" data-tab="#tab-4"><span>Platos únicos</span></li>
+                    <li class="tab-btn" data-tab="#tab-5"><span>Coctelería</span></li>
+                    <li class="tab-btn" data-tab="#tab-6"><span>Bebidas</span></li>
                 </ul>
             </div>
             <div class="tabs-content">
                 <!--Tab-->
                 <div class="tab active-tab" id="tab-1">
                     <div class="row clearfix">
-                        <div class="menu-col col-lg-6 col-md-12 col-sm-12">
-                            <div class="inner">
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-5.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Greek Salad</a></h5>
-                                            </div>
-                                            <div class="price"><span>$25.50</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Tomatoes, green bell pepper, sliced cucumber
-                                                onion, olives, and feta cheese.</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-6.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Lasagne <span class="s-info">SEASONAL</span></a></h5>
-                                            </div>
-                                            <div class="price"><span>$40.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-7.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Butternut Pumpkin</a></h5>
-                                            </div>
-                                            <div class="price"><span>$10.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Typesetting industry lorem Lorem Ipsum is
-                                                simply dummy text of the priand.</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="menu-col col-lg-6 col-md-12 col-sm-12">
-                            <div class="inner">
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-8.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Tokusen Wagyu <span class="s-info">NEW</span></a></h5>
-                                            </div>
-                                            <div class="price"><span>$39.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices.</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-9.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Olivas Rellenas</a></h5>
-                                            </div>
-                                            <div class="price"><span>$25.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Avocados with crab meat, red onion, crab
-                                                salad stuffed red bell pepper and green bell pepper.</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-10.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Opu Fish</a></h5>
-                                            </div>
-                                            <div class="price"><span>$49.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices</a></div>
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
+                            <img src="/images/menu/02.jpg" alt="">
                         </div>
                     </div>
                 </div>
                 <!--Tab-->
                 <div class="tab" id="tab-2">
                     <div class="row clearfix">
-                        <div class="menu-col col-lg-6 col-md-12 col-sm-12">
-                            <div class="inner">
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-5.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Greek Salad</a></h5>
-                                            </div>
-                                            <div class="price"><span>$25.50</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Tomatoes, green bell pepper, sliced cucumber
-                                                onion, olives, and feta cheese.</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-6.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Lasagne <span class="s-info">SEASONAL</span></a></h5>
-                                            </div>
-                                            <div class="price"><span>$40.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-7.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Butternut Pumpkin</a></h5>
-                                            </div>
-                                            <div class="price"><span>$10.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Typesetting industry lorem Lorem Ipsum is
-                                                simply dummy text of the priand.</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="menu-col col-lg-6 col-md-12 col-sm-12">
-                            <div class="inner">
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-8.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Tokusen Wagyu <span class="s-info">NEW</span></a></h5>
-                                            </div>
-                                            <div class="price"><span>$39.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices.</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-9.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Olivas Rellenas</a></h5>
-                                            </div>
-                                            <div class="price"><span>$25.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Avocados with crab meat, red onion, crab
-                                                salad stuffed red bell pepper and green bell pepper.</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-10.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Opu Fish</a></h5>
-                                            </div>
-                                            <div class="price"><span>$49.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices</a></div>
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
+                            <img src="/images/menu/03.jpg" alt="">
                         </div>
                     </div>
                 </div>
                 <!--Tab-->
                 <div class="tab" id="tab-3">
                     <div class="row clearfix">
-                        <div class="menu-col col-lg-6 col-md-12 col-sm-12">
-                            <div class="inner">
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-5.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Greek Salad</a></h5>
-                                            </div>
-                                            <div class="price"><span>$25.50</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Tomatoes, green bell pepper, sliced cucumber
-                                                onion, olives, and feta cheese.</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-6.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Lasagne <span class="s-info">SEASONAL</span></a></h5>
-                                            </div>
-                                            <div class="price"><span>$40.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-7.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Butternut Pumpkin</a></h5>
-                                            </div>
-                                            <div class="price"><span>$10.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Typesetting industry lorem Lorem Ipsum is
-                                                simply dummy text of the priand.</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="menu-col col-lg-6 col-md-12 col-sm-12">
-                            <div class="inner">
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-8.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Tokusen Wagyu <span class="s-info">NEW</span></a></h5>
-                                            </div>
-                                            <div class="price"><span>$39.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices.</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-9.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Olivas Rellenas</a></h5>
-                                            </div>
-                                            <div class="price"><span>$25.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Avocados with crab meat, red onion, crab
-                                                salad stuffed red bell pepper and green bell pepper.</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-10.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Opu Fish</a></h5>
-                                            </div>
-                                            <div class="price"><span>$49.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
+                            <img src="/images/menu/04.jpg" alt="">
                     </div>
                 </div>
-                <!--Tab-->
-                <div class="tab" id="tab-4">
-                    <div class="row clearfix">
-                        <div class="menu-col col-lg-6 col-md-12 col-sm-12">
-                            <div class="inner">
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-5.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Greek Salad</a></h5>
-                                            </div>
-                                            <div class="price"><span>$25.50</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Tomatoes, green bell pepper, sliced cucumber
-                                                onion, olives, and feta cheese.</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-6.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Lasagne <span class="s-info">SEASONAL</span></a></h5>
-                                            </div>
-                                            <div class="price"><span>$40.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-7.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Butternut Pumpkin</a></h5>
-                                            </div>
-                                            <div class="price"><span>$10.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Typesetting industry lorem Lorem Ipsum is
-                                                simply dummy text of the priand.</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="menu-col col-lg-6 col-md-12 col-sm-12">
-                            <div class="inner">
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-8.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Tokusen Wagyu <span class="s-info">NEW</span></a></h5>
-                                            </div>
-                                            <div class="price"><span>$39.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices.</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-9.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Olivas Rellenas</a></h5>
-                                            </div>
-                                            <div class="price"><span>$25.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Avocados with crab meat, red onion, crab
-                                                salad stuffed red bell pepper and green bell pepper. Cucumber</a></div>
-                                    </div>
-                                </div>
-                                <!--Block-->
-                                <div class="dish-block">
-                                    <div class="inner-box">
-                                        <div class="dish-image"><a href="#"><img src="images/resource/menu-image-10.png"
-                                                    alt=""></a></div>
-                                        <div class="title clearfix">
-                                            <div class="ttl clearfix">
-                                                <h5><a href="#">Opu Fish</a></h5>
-                                            </div>
-                                            <div class="price"><span>$49.00</span></div>
-                                        </div>
-                                        <div class="text desc"><a href="#">Vegetables, cheeses, ground meats, tomato
-                                                sauce, seasonings and spices</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+            </div>
+            <!--Tab-->
+            <div class="tab" id="tab-4">
+                <div class="row clearfix">
+                    <div class="menu-col col-lg-12 col-md-12 col-sm-12">
+                        <img src="/images/menu/06.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab" id="tab-5">
+                <div class="row clearfix">
+                    <div class="menu-col col-lg-12 col-md-12 col-sm-12">
+                        <img src="/images/menu/05.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab" id="tab-6">
+                <div class="row clearfix">
+                    <div class="menu-col col-lg-12 col-md-12 col-sm-12">
+                        <img src="/images/menu/01.jpg" alt="">
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <!-- <div class="open-timing">
+    <!-- <div class="open-timing">
             <div class="hours">During winter daily from <span class="theme_color">7:00 pm</span> to <span
                     class="theme_color">9:00 pm</span></div>
             <div class="link-box">
@@ -757,118 +399,11 @@
     </div>
 </section>
 
-<!--Special Offer Section-->
-<section hidden class="special-offer">
-    <div class="outer-container">
-        <div class="auto-container">
-            <div class="title-box centered">
-                <div class="subtitle"><span>special offer</span></div>
-                <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
-                <h2>Best Specialties</h2>
-            </div>
-            <div class="dish-gallery-slider owl-theme owl-carousel">
-                <!--Slide Item-->
-                <div class="offer-block-two">
-                    <div class="inner-box">
-                        <div class="image"><a href="#"><img src="images/resource/menu-image-11.jpg" alt=""></a></div>
-                        <h4><a href="menu-list-1.html">Greek Salad</a></h4>
-                        <div class="text desc">Avocados with crab meat, red onion, crab salad red bell pepper...</div>
-                        <div class="price">$39.00</div>
-                    </div>
-                </div>
-
-                <!--Slide Item-->
-                <div class="offer-block-two margin-top">
-                    <div class="inner-box">
-                        <div class="image"><a href="#"><img src="images/resource/menu-image-12.jpg" alt=""></a></div>
-                        <h4><a href="menu-list-2.html">Tokusen Wagyu</a></h4>
-                        <div class="text desc">Tomatoes, green bell pepper, sliced cucumber onion, olives...</div>
-                        <div class="price">$45.00</div>
-                    </div>
-                </div>
-
-                <!--Slide Item-->
-                <div class="offer-block-two">
-                    <div class="inner-box">
-                        <div class="image"><a href="#"><img src="images/resource/menu-image-13.jpg" alt=""></a></div>
-                        <h4><a href="menu-list-3.html">Butternut Pumpkin</a></h4>
-                        <div class="text desc">Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-                        </div>
-                        <div class="price">$15.00</div>
-                    </div>
-                </div>
-
-                <!--Slide Item-->
-                <div class="offer-block-two margin-top">
-                    <div class="inner-box">
-                        <div class="image"><a href="#"><img src="images/resource/menu-image-14.jpg" alt=""></a></div>
-                        <h4><a href="menu-list-4.html">Opu Fish</a></h4>
-                        <div class="text desc">Vegetables, cheeses, ground meats, tomato sauce, seasonings...</div>
-                        <div class="price">$12.00</div>
-                    </div>
-                </div>
-
-                <!--Slide Item-->
-                <div class="offer-block-two">
-                    <div class="inner-box">
-                        <div class="image"><a href="#"><img src="images/resource/menu-image-11.jpg" alt=""></a></div>
-                        <h4><a href="menu-list-1.html">Greek Salad</a></h4>
-                        <div class="text desc">Avocados with crab meat, red onion, crab salad red bell pepper...</div>
-                        <div class="price">$39.00</div>
-                    </div>
-                </div>
-
-                <!--Slide Item-->
-                <div class="offer-block-two margin-top">
-                    <div class="inner-box">
-                        <div class="image"><a href="#"><img src="images/resource/menu-image-12.jpg" alt=""></a></div>
-                        <h4><a href="menu-list-2.html">Tokusen Wagyu</a></h4>
-                        <div class="text desc">Tomatoes, green bell pepper, sliced cucumber onion, olives...</div>
-                        <div class="price">$45.00</div>
-                    </div>
-                </div>
-
-                <!--Slide Item-->
-                <div class="offer-block-two">
-                    <div class="inner-box">
-                        <div class="image"><a href="#"><img src="images/resource/menu-image-13.jpg" alt=""></a></div>
-                        <h4><a href="menu-list-3.html">Butternut Pumpkin</a></h4>
-                        <div class="text desc">Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-                        </div>
-                        <div class="price">$15.00</div>
-                    </div>
-                </div>
-
-                <!--Slide Item-->
-                <div class="offer-block-two margin-top">
-                    <div class="inner-box">
-                        <div class="image"><a href="#"><img src="images/resource/menu-image-14.jpg" alt=""></a></div>
-                        <h4><a href="menu-list-4.html">Opu Fish</a></h4>
-                        <div class="text desc">Vegetables, cheeses, ground meats, tomato sauce, seasonings...</div>
-                        <div class="price">$12.00</div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="lower-link-box text-center">
-                <a href="menu-list-1.html" class="theme-btn btn-style-two clearfix">
-                    <span class="btn-wrap">
-                        <span class="text-one">view all menu</span>
-                        <span class="text-two">view all menu</span>
-                    </span>
-                </a>
-            </div>
-
-        </div>
-    </div>
-</section>
-
 
 
 <!--Gallery Section-->
 <section class="image-gallery">
-    <div class="title-box centered mt-5 mb-5">
+    <div class="title-box centered mt-5 mb-5" id="galeria">
         <div class="subtitle"><span>De la vista nace el amor</span></div>
         <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
         <h2>Nuestra Galería</h2>
@@ -896,20 +431,40 @@
 
                 <!--Slide Item-->
                 <div class="gallery-block">
-                    <div class="image"><a href="images/resource/gallery-1.jpg" class="lightbox-image"
-                            data-fancybox="gallery"><img src="images/resource/gallery-1.jpg" alt=""></a></div>
+                    <div class="image"><a href="images/resource/gallery-4.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><img src="images/resource/gallery-4.jpg" alt=""></a></div>
                 </div>
 
                 <!--Slide Item-->
                 <div class="gallery-block">
-                    <div class="image"><a href="images/resource/gallery-2.jpg" class="lightbox-image"
-                            data-fancybox="gallery"><img src="images/resource/gallery-2.jpg" alt=""></a></div>
+                    <div class="image"><a href="images/resource/gallery-5.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><img src="images/resource/gallery-5.jpg" alt=""></a></div>
                 </div>
 
                 <!--Slide Item-->
                 <div class="gallery-block">
-                    <div class="image"><a href="images/resource/gallery-3.jpg" class="lightbox-image"
-                            data-fancybox="gallery"><img src="images/resource/gallery-3.jpg" alt=""></a></div>
+                    <div class="image"><a href="images/resource/gallery-6.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><img src="images/resource/gallery-6.jpg" alt=""></a></div>
+                </div>
+
+
+                <!--Slide Item-->
+                <div class="gallery-block">
+                    <div class="image"><a href="images/resource/gallery-7.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><img src="images/resource/gallery-7.jpg" alt=""></a></div>
+                </div>
+
+
+                <!--Slide Item-->
+                <div class="gallery-block">
+                    <div class="image"><a href="images/resource/gallery-8.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><img src="images/resource/gallery-8.jpg" alt=""></a></div>
+                </div>
+
+                <!--Slide Item-->
+                <div class="gallery-block">
+                    <div class="image"><a href="images/resource/gallery-9.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><img src="images/resource/gallery-9.jpg" alt=""></a></div>
                 </div>
 
             </div>
@@ -1052,7 +607,9 @@
                                 <div class="subtitle">Cocina Mexicana</div>
                                 <h3>Jazmin's Restaurant</h3>
                                 <div class="text">El auténtico sabor de la comida mexicana</div>
-                                <div class="link"><a target="_blank" href="https://jazminsrestaurant.com/" class="theme-btn"><span>Ver restaurante</span></a></div>
+                                <div class="link"><a target="_blank" href="https://jazminsrestaurant.com/"
+                                        class="theme-btn"><span>Ver restaurante</span></a></div>
+                                        <img src="images/jazmin.png" alt="" style="width:10rem;">
                             </div>
                         </div>
                     </div>
@@ -1076,7 +633,9 @@
                                 <div class="subtitle">Fiorenza Ristorante Italiano by</div>
                                 <h3>Grupo ALCARI</h3>
                                 <div class="text">Auténtica comida Italiana</div>
-                                <div class="link"><a target="_blank" href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=45696517-027b-40c2-9d97-1e810acc89bd" class="theme-btn"><span>Reservar</span></a></div>
+                                <div class="link"><a target="_blank"
+                                        href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=45696517-027b-40c2-9d97-1e810acc89bd"
+                                        class="theme-btn"><span>Reservar</span></a></div>
                             </div>
                         </div>
                     </div>
@@ -1092,7 +651,9 @@
                                 <div class="subtitle">Cocina japonesa</div>
                                 <h3>Tei Sushi</h3>
                                 <div class="text">Degusta la mejor comida japonesa en el corazón de San José.</div>
-                                <div class="link"><a target="_blank" href="https://www.teisushi.com/" class="theme-btn"><span>Ver restaurante</span></a></div>
+                                <div class="link"><a target="_blank" href="https://www.teisushi.com/"
+                                        class="theme-btn"><span>Ver restaurante</span></a></div>
+                                        <img src="images/tei.png" alt="" style="width:7rem;">
                             </div>
                         </div>
                     </div>
@@ -1257,7 +818,7 @@
 
 <!-- mapa -->
 <section class="mapa" style="filter: grayscale(70%);">
-    <div class="title-box centered mt-5 mb-5">
+    <div class="title-box centered mt-5 mb-5" id="contacto">
         <div class="subtitle"><span>Descubre la mejor experiencia culinaria</span></div>
         <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
         <h2>Situado en el corazón de San José</h2>
@@ -1347,11 +908,11 @@
                         <div class="auth-title">maggieMor12</div>
                     </div>
                     <div class="slide-item">
-                        <div class="image"><img src="images/resource/author-thumb-2.jpg" alt=""></div>
+                        <div class="image"><img src="images/resource/author-thumb-1.jpg" alt=""></div>
                         <div class="auth-title">DanielaP1351</div>
                     </div>
                     <div class="slide-item">
-                        <div class="image"><img src="images/resource/author-thumb-3.jpg" alt=""></div>
+                        <div class="image"><img src="images/resource/author-thumb-1.jpg" alt=""></div>
                         <div class="auth-title">Joy Ross</div>
                     </div>
                     <div class="slide-item">
@@ -1359,11 +920,11 @@
                         <div class="auth-title">Kevin Hawkins</div>
                     </div>
                     <div class="slide-item">
-                        <div class="image"><img src="images/resource/author-thumb-2.jpg" alt=""></div>
+                        <div class="image"><img src="images/resource/author-thumb-1.jpg" alt=""></div>
                         <div class="auth-title">LauraM</div>
                     </div>
                     <div class="slide-item">
-                        <div class="image"><img src="images/resource/author-thumb-3.jpg" alt=""></div>
+                        <div class="image"><img src="images/resource/author-thumb-1.jpg" alt=""></div>
                         <div class="auth-title">DavidP</div>
                     </div>
                 </div>

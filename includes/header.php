@@ -109,7 +109,9 @@
 
                      <div class="links-box clearfix">
                          <div class="link link-btn">
-                             <a href="reservation-opentable.html" class="theme-btn btn-style-one clearfix">
+                             <a target="_blank"
+                                 href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=28e8fc3b-bf66-4d0c-b80d-44111890b98b"
+                                 class="theme-btn btn-style-one clearfix">
                                  <span class="btn-wrap">
                                      <span class="text-one">Reservar</span>
                                      <span class="text-two">Reservar</span>
@@ -154,8 +156,8 @@
      <!-- Hidden Bar Wrapper -->
      <div class="inner-box">
          <div class="cross-icon hidden-bar-closer"><span class="far fa-close"></span></div>
-         <div class="logo-box"><a href="/" title="Fiorenza"><img
-                     src="images/resource/sidebar-logo.png" alt="Fiorenza logo" title="Fiorenza"></a></div>
+         <div class="logo-box"><a href="/" title="Fiorenza"><img src="images/resource/sidebar-logo.png"
+                     alt="Fiorenza logo" title="Fiorenza"></a></div>
 
          <!-- .Side-menu -->
          <div class="side-menu">

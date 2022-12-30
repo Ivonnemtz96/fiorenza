@@ -72,8 +72,8 @@
      </div>
      <div class="footer-bottom">
          <div class="auto-container">
-             <div class="copyright">&copy; 2022 Restaurt. All Rights Reserved | Crafted by <a
-                     href="https://themeforest.net/user/kalanidhithemes" target="blank">Kalanidhi Themes</a></div>
+             <div class="copyright">&copy; 2022 Fiorenza Ristorante Italiano. Diseñado por <a
+                     href="https://bananagroup.mx" target="blank">Banana Group Marketing</a></div>
          </div>
      </div>
  </footer>
