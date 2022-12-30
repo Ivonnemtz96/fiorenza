@@ -864,13 +864,10 @@
     </div>
 </section>
 
+
+
 <!--Gallery Section-->
 <section class="image-gallery">
-    <div class="title-box centered mb-5">
-        <div class="subtitle"><span>De la vista nace el amor</span></div>
-        <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
-        <h2>Galería</h2>
-    </div>
     <div class="carousel-box">
         <div class="auto-container">
             <div class="image-gallery-slider owl-theme owl-carousel">
@@ -914,8 +911,6 @@
         </div>
     </div>
 </section>
-
-
 
 <!--Reservation Section-->
 <section hidden class="reserve-section">
@@ -1111,7 +1106,7 @@
 </section>
 
 <!--Team Section-->
-<section hidden class="team-section" >
+<section hidden class="team-section">
     <div class="left-bg"><img src="images/background/bg-21.png" alt="" title=""></div>
     <div class="right-bg"><img src="images/background/bg-9.png" alt="" title=""></div>
     <div class="auto-container">
@@ -1276,6 +1271,11 @@
 
 <!--Testimonials Section-->
 <section class="testimonials-section" style="padding-top: 4rem; padding-bottom: 4rem;">
+    <div class="title-box centered mt-5 mb-5">
+        <div class="subtitle"><span>¿Qué dicen de nosotros?</span></div>
+        <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
+        <h2>Opiniones de nuestros clientes</h2>
+    </div>
     <div class="image-layer" style="background-image: url(images/background/image-2.jpg);"></div>
     <div class="auto-container">
         <div class="carousel-box">
