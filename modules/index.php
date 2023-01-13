@@ -12,11 +12,13 @@
                             <div class="content">
                                 <div class="clearfix">
                                     <div class="inner">
-                                        <div class="subtitle"><span>Casa de la auténtica comida italiana</span></div>
+                                        <div class="subtitle"><span>No hay nada más romántico que la comida
+                                                italiana</span></div>
                                         <div class="pattern-image"><img src="images/icons/separator.svg" alt=""
                                                 title=""></div>
-                                        <h1><span>Ristorante <br> Italiano</span></h1>
-                                        <div class="text">Ven y degusta nuestra exquisita comida</div>
+                                        <h2><span>Fiorenza Ristorante <br> Italiano</span></h2>
+                                        <div class="text">Tiene el poder de conquistar a las personas y hasta a los
+                                            paladares más exigentes</div>
                                         <div class="links-box wow fadeInUp" data-wow-delay="0ms"
                                             data-wow-duration="1500ms">
                                             <div class="link">
@@ -48,7 +50,7 @@
                                         <div class="subtitle"><span>Exquisito</span></div>
                                         <div class="pattern-image"><img src="images/icons/separator.svg" alt=""
                                                 title=""></div>
-                                        <h1><span>Conquistamos el<br> paladar más exigente</span></h1>
+                                        <h2><span>Mangiare per vivere <br> e non vivere per mangiare</span></h2>
                                         <div class="text">Te aseguramos que te encantará</div>
                                         <div class="links-box clearfix">
                                             <div class="link">
@@ -80,7 +82,8 @@
                                         <div class="subtitle"><span>Casa de la auténtica comida Italiana</span></div>
                                         <div class="pattern-image"><img src="images/icons/separator.svg" alt=""
                                                 title=""></div>
-                                        <h1><span>El placer de degustar <br> exquisitos platillos</span></h1>
+                                        <h2><span>Tiene el poder de conquistar <br> a las personas y hasta a los <br>
+                                                paladares más exigentes</span></h2>
                                         <div class="text">Deja que nuestro sabor inunde tu paladar</div>
                                         <div class="links-box clearfix">
                                             <div class="link">
@@ -131,8 +134,7 @@
             <!--Block-->
             <div class="offer-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                    <div class="image"><a href="#"><img src="images/resource/offer-image-1.jpg"
-                                alt=""></a></div>
+                    <div class="image"><a href="#"><img src="images/resource/offer-image-1.jpg" alt=""></a></div>
                     <h3><a href="#">Pastas</a></h3>
                     <!-- <div class="more-link"><a href="#">view menu</a></div> -->
                 </div>
@@ -141,8 +143,7 @@
             <!--Block-->
             <div class="offer-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
-                    <div class="image"><a href="#"><img src="images/resource/offer-image-2.jpg"
-                                alt=""></a></div>
+                    <div class="image"><a href="#"><img src="images/resource/offer-image-2.jpg" alt=""></a></div>
                     <h3><a href="#">Pizzas</a></h3>
                     <!-- <div class="more-link"><a href="menu-list-2.html">view menu</a></div> -->
                 </div>
@@ -151,8 +152,7 @@
             <!--Block-->
             <div class="offer-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
-                    <div class="image"><a href="#"><img src="images/resource/offer-image-3.jpg"
-                                alt=""></a></div>
+                    <div class="image"><a href="#"><img src="images/resource/offer-image-3.jpg" alt=""></a></div>
                     <h3><a href="#">Bebidas</a></h3>
                     <!-- <div class="more-link"><a href="#">view menu</a></div> -->
                 </div>
@@ -175,9 +175,10 @@
                         <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
                         <h2>Cada sabor cuenta una historia</h2>
                         <div class="text">
-                            Desde 2012 en Fiorenza, de la ciudad de Florencia, el Chef Roberto Persi y su esposa
-                            Fiorenza han trabajado duro para traer lo mejor de Italia a Los Cabos. <br>
-                            Perteneciente al Grupo ALCARI, el grupo más grande de Los Cabos.
+                            En 2012 desde la ciudad de Florencia, llega el Chef Roberto Persi y su esposa Fiorenza. Que
+                            trabajando duro traen lo mejor de Italia a Los Cabos, rescatando las recetas auténticas y
+                            tradicionales de su lugar de origen. <br>
+                            Perteneciente al Grupo ALCARI.
                         </div>
                     </div>
                     <div class="booking-info">
@@ -220,15 +221,15 @@
         <div class="title-box centered">
             <div class="subtitle"><span>¿Porqué elegirnos?</span></div>
             <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
-            <h2>Déjate llevar por nuestras </h2>
+            <h2>Algo grandioso te espera</h2>
         </div>
         <div class="row clearfix">
             <!--Block-->
             <div class="why-block col-xl-3 col-lg-6 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
                     <div class="icon-box"><img src="images/resource/why-icon-1.png" alt=""></div>
-                    <h4>Comida de Calidad</h4>
-                    <div class="text">Platillos hechos al momento con ingredientes de calidad. <br></div>
+                    <h4>Platillos auténticos</h4>
+                    <div class="text">Platillos hechos al momento con ingredientes de la más alta calidad. <br></div>
                 </div>
             </div>
 
@@ -287,9 +288,10 @@
                         <h2>Nuestro Equipo</h2>
                         <div class="text">
                             <strong>ESTHER RODRIGUEZ</strong><br>
-                            CHEF EJECUTIVA Con una gran experiencia de 7 años trabajando de la mano con la dueña
-                            Fiorenza y el Chef Roberto, es la responsable en cocina de dar el toque perfecto a cada
-                            platillo antes de que llegue a su mesa.
+                            <h6> CHEF EJECUTIVA</h6> <br>
+                            Con una gran experiencia de más de 10 años, la chef ha trabajado con las recetas originales
+                            que el Chef Roberto Persi ysu esposa Fiorenza han traído desde su natal Italia. Preservando
+                            así, el sabor auténtico de Florencia hasta su mesa.
                         </div>
                     </div>
                     <!-- <div class="price"><span class="old">$40.00</span> <span class="new">$20.00</span></div> -->
@@ -335,56 +337,56 @@
             <div class="tabs-content">
                 <!--Tab-->
                 <div class="tab active-tab" id="tab-1">
-                    <div class="row clearfix">
+                    <div class="row clearfix justify-content-center text-center">
                         <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                            <img src="/images/menu/02.jpg" alt="">
+                            <img width="500px" src="/images/menu/02.jpg" alt="">
                         </div>
                     </div>
                 </div>
                 <!--Tab-->
                 <div class="tab" id="tab-2">
-                    <div class="row clearfix">
+                    <div class="row clearfix justify-content-center text-center">
                         <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                            <img src="/images/menu/03.jpg" alt="">
+                            <img width="500px" src="/images/menu/03.jpg" alt="">
                         </div>
                     </div>
                 </div>
                 <!--Tab-->
                 <div class="tab" id="tab-3">
-                    <div class="row clearfix">
+                    <div class="row clearfix justify-content-center text-center">
                         <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                            <img src="/images/menu/04.jpg" alt="">
+                            <img width="500px" src="/images/menu/04.jpg" alt="">
+                        </div>
                     </div>
                 </div>
-            </div>
-            <!--Tab-->
-            <div class="tab" id="tab-4">
-                <div class="row clearfix">
-                    <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                        <img src="/images/menu/06.jpg" alt="">
+                <!--Tab-->
+                <div class="tab" id="tab-4">
+                    <div class="row clearfix justify-content-center text-center">
+                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
+                            <img width="500px" src="/images/menu/06.jpg" alt="">
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="tab" id="tab-5">
-                <div class="row clearfix">
-                    <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                        <img src="/images/menu/05.jpg" alt="">
+                <div class="tab" id="tab-5">
+                    <div class="row clearfix justify-content-center text-center">
+                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
+                            <img width="500px" src="/images/menu/05.jpg" alt="">
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="tab" id="tab-6">
-                <div class="row clearfix">
-                    <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                        <img src="/images/menu/01.jpg" alt="">
+                <div class="tab" id="tab-6">
+                    <div class="row clearfix justify-content-center text-center">
+                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
+                            <img width="500px" src="/images/menu/01.jpg" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <!-- <div class="open-timing">
+        <!-- <div class="open-timing">
             <div class="hours">During winter daily from <span class="theme_color">7:00 pm</span> to <span
                     class="theme_color">9:00 pm</span></div>
             <div class="link-box">
@@ -413,6 +415,12 @@
             <div class="image-gallery-slider owl-theme owl-carousel">
                 <!--Slide Item-->
                 <div class="gallery-block">
+                    <div class="image"><a href="images/resource/gallery-3.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><img src="images/resource/gallery-3.jpg" alt=""></a></div>
+                </div>
+
+                <!--Slide Item-->
+                <div class="gallery-block">
                     <div class="image"><a href="images/resource/gallery-1.jpg" class="lightbox-image"
                             data-fancybox="gallery"><img src="images/resource/gallery-1.jpg" alt=""></a></div>
                 </div>
@@ -421,12 +429,6 @@
                 <div class="gallery-block">
                     <div class="image"><a href="images/resource/gallery-2.jpg" class="lightbox-image"
                             data-fancybox="gallery"><img src="images/resource/gallery-2.jpg" alt=""></a></div>
-                </div>
-
-                <!--Slide Item-->
-                <div class="gallery-block">
-                    <div class="image"><a href="images/resource/gallery-3.jpg" class="lightbox-image"
-                            data-fancybox="gallery"><img src="images/resource/gallery-3.jpg" alt=""></a></div>
                 </div>
 
                 <!--Slide Item-->
@@ -605,11 +607,11 @@
                         <div class="bl-inner">
                             <div class="content">
                                 <div class="subtitle">Cocina Mexicana</div>
-                                <h3>Jazmin's Restaurant</h3>
+                                <img src="images/jazmin.png" alt="" style="width:10rem;">
                                 <div class="text">El auténtico sabor de la comida mexicana</div>
                                 <div class="link"><a target="_blank" href="https://jazminsrestaurant.com/"
                                         class="theme-btn"><span>Ver restaurante</span></a></div>
-                                        <img src="images/jazmin.png" alt="" style="width:10rem;">
+
                             </div>
                         </div>
                     </div>
@@ -630,10 +632,12 @@
                     <div class="text-block">
                         <div class="bl-inner">
                             <div class="content">
-                                <div class="subtitle">Fiorenza Ristorante Italiano by</div>
-                                <h3>Grupo ALCARI</h3>
-                                <div class="text">Auténtica comida Italiana</div>
-                                <div class="link"><a target="_blank"
+                                <div style="color: #fff; text-shadow:3px 2px 1px #000; font-size:1rem" class="subtitle">
+                                    Fiorenza Ristorante Italiano by Grupo</div>
+                                <img src="images/alcari.png" alt="" style="width:10rem;">
+                                <!-- <div class="text">Auténtica comida Italiana</div> -->
+                                <div class="link"><a style="color: #fff; text-shadow:3px 2px 1px #000; font-size:1rem"
+                                        target="_blank"
                                         href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=45696517-027b-40c2-9d97-1e810acc89bd"
                                         class="theme-btn"><span>Reservar</span></a></div>
                             </div>
@@ -649,11 +653,11 @@
                         <div class="bl-inner">
                             <div class="content">
                                 <div class="subtitle">Cocina japonesa</div>
-                                <h3>Tei Sushi</h3>
+                                <img src="images/tei.png" alt="" style="width:7rem;">
                                 <div class="text">Degusta la mejor comida japonesa en el corazón de San José.</div>
                                 <div class="link"><a target="_blank" href="https://www.teisushi.com/"
                                         class="theme-btn"><span>Ver restaurante</span></a></div>
-                                        <img src="images/tei.png" alt="" style="width:7rem;">
+
                             </div>
                         </div>
                     </div>
@@ -661,93 +665,6 @@
                         <div class="image-layer" style="background-image: url(images/resource/featured-3.jpg);"></div>
                         <div class="image"><img src="images/resource/featured-3.jpg" alt=""></div>
                     </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-<!--Team Section-->
-<section hidden class="team-section">
-    <div class="left-bg"><img src="images/background/bg-21.png" alt="" title=""></div>
-    <div class="right-bg"><img src="images/background/bg-9.png" alt="" title=""></div>
-    <div class="auto-container">
-        <div class="title-box centered">
-            <div class="subtitle"><span>experienced team</span></div>
-            <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
-            <h2>Meet Our Chef</h2>
-        </div>
-        <div class="row justify-content-center clearfix">
-            <!--Block-->
-            <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                    <div class="image">
-                        <img src="images/resource/team-1.jpg" alt="">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <!-- Social Box -->
-                                <ul class="social-box">
-                                    <li><a href="https://www.facebook.com/" class="fab fa-facebook-f"></a></li>
-                                    <li><a href="https://www.twitter.com/" class="fab fa-twitter"></a></li>
-                                    <li><a href="https://dribbble.com/" class="fab fa-dribbble"></a></li>
-                                    <li><a href="https://www.linkedin.com/" class="fab fa-linkedin"></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <h3><a href="menu-list.html">Willium Joe</a></h3>
-                    <div class="designation">Master chef</div>
-                    <div class="text desc">Lorem Ipsum is simply dummy printing and typeset industry lorem Ipsum has
-                        been the industrys.</div>
-                </div>
-            </div>
-
-            <!--Block-->
-            <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
-                    <div class="image">
-                        <img src="images/resource/team-2.jpg" alt="">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <!-- Social Box -->
-                                <ul class="social-box">
-                                    <li><a href="https://www.facebook.com/" class="fab fa-facebook-f"></a></li>
-                                    <li><a href="https://www.twitter.com/" class="fab fa-twitter"></a></li>
-                                    <li><a href="https://dribbble.com/" class="fab fa-dribbble"></a></li>
-                                    <li><a href="https://www.linkedin.com/" class="fab fa-linkedin"></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <h3><a href="menu-list.html">Steave Den</a></h3>
-                    <div class="designation">Master chef</div>
-                    <div class="text desc">Lorem Ipsum is simply dummy printing and typeset industry lorem Ipsum has
-                        been the industrys.</div>
-                </div>
-            </div>
-
-            <!--Block-->
-            <div class="team-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
-                    <div class="image">
-                        <img src="images/resource/team-3.jpg" alt="">
-                        <div class="overlay-box">
-                            <div class="overlay-inner">
-                                <!-- Social Box -->
-                                <ul class="social-box">
-                                    <li><a href="https://www.facebook.com/" class="fab fa-facebook-f"></a></li>
-                                    <li><a href="https://www.twitter.com/" class="fab fa-twitter"></a></li>
-                                    <li><a href="https://dribbble.com/" class="fab fa-dribbble"></a></li>
-                                    <li><a href="https://www.linkedin.com/" class="fab fa-linkedin"></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <h3><a href="menu-list.html">Lily Sopy</a></h3>
-                    <div class="designation">Master chef</div>
-                    <div class="text desc">Lorem Ipsum is simply dummy printing and typeset industry lorem Ipsum has
-                        been the industrys.</div>
                 </div>
             </div>
 
@@ -795,7 +712,7 @@
                 <div class="fact-block col-lg-3 col-md-6 col-sm-12">
                     <div class="inner clearfix">
                         <div class="fact-count">
-                            <div class="count-box"><span class="count-text" data-stop="12"
+                            <div class="count-box"><span class="count-text" data-stop="10"
                                     data-speed="1000">0</span><i>+</i></div>
                         </div>
                         <div class="fact-title">Años de<br>servicio</div>
@@ -822,6 +739,68 @@
         <div class="subtitle"><span>Descubre la mejor experiencia culinaria</span></div>
         <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
         <h2>Situado en el corazón de San José</h2>
+    </div>
+
+    <div class="container mb-5">
+        <div class="row">
+            <div class="col-md-6">
+                <h3 style="text-align: center;">¡Contáctanos! <br>Estamos para servirte</h3>
+
+
+                <ul>
+                    <li style="margin-top: 25px; text-decoration: underline;">
+                        <h5>Teléfono: <a href="tel:(624) 142-1652">(624) 142-1652</a></h5>
+                    </li>
+
+                    <li style="margin-top: 25px;text-decoration: underline;">
+                        <h5>Correo: <a href="mailto:info@fiorenzaloscabos.com">info@fiorenzaloscabos.com</a></h5>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <h3 style="text-align: center;">Nos encuentras en las siguientes plataformas:</h3>
+                <div class="row text-center mt-5">
+                    <div class="col-md-4">
+                        <a target="_blank" href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d3644605-Reviews-Fiorenza-San_Jose_del_Cabo_Los_Cabos_Baja_California.html">
+                            <img width="35px" src="/images/trip.png" alt="">
+                            <span style="color: #fff;font-size:1.4rem;">TripAdvisor</span>
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a target="_blank" href="https://www.yelp.com/biz/fiorenza-restaurant-san-jos%C3%A9-del-cabo?osq=fiorenza+los+cabos">
+                            <img width="40px" src="/images/yelp.png" alt="">
+                            <span style="color: #fff;font-size:1.4rem;">Yelp</span>
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a target="_blank" href="https://www.opentable.com.mx/r/fiorenza-los-cabos-san-jose-del-cabo?ref=16420">
+                            <img width="140px" src="/images/open.png" alt="">
+                            <!-- <span style="color: #fff;font-size:1.4rem;">OpenTable</span> -->
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+            <!-- <div class="col-md-4">
+                <h3 style="text-align: center;">¡Síguenos en nuestras redes sociales!</h3>
+
+                <ul>
+                    <li style="margin-top: 25px;">
+                        <a href="https://www.facebook.com/FiorenzaLosCabos001/">
+                            <img width="40px" src="/images/fb.png" alt="">
+                            <span style="color: #fff;font-size:1.4rem;">Fiorenza Ristorante Italiano</span>
+                        </a>
+
+                    </li>
+                    <li  style="margin-top: 25px;">
+                        <a href="https://www.instagram.com/fiorenzaloscabos/">
+                            <img width="40px" src="/images/insta.png" alt="">
+                            <span style="color: #fff;font-size:1.4rem;">@fiorenzaloscabos</span>
+                        </a>
+                    </li>
+                </ul>
+            </div> -->
+        </div>
     </div>
 
 
@@ -853,16 +832,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="slide-item">
-                    <div class="slide-content">
-                        <div class="quotes">”</div>
-                        <div class="text quote-text">
-                            <strong> Me encanta! Mi lugar favorito de comida italiana en San José</strong>
-                            El lugar esta muy limpio y bonito, el trato de los colaboradores y l comida increíblemente
-                            deliciosa! Pasta di roberto sin duda mi favorita! Los precios bastante accesibles!!!
-                        </div>
-                    </div>
-                </div>
+
                 <div class="slide-item">
                     <div class="slide-content">
                         <div class="quotes">”</div>
@@ -873,6 +843,28 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="slide-item">
+                    <div class="slide-content">
+                        <div class="quotes">”</div>
+                        <div class="text quote-text">Excelente lugar para celebrar cualquier cosa o simplemente ir a
+                            pasarla bien.</div>
+                    </div>
+                </div>
+
+                <div class="slide-item">
+                    <div class="slide-content">
+                        <div class="quotes">”</div>
+                        <div class="text quote-text">
+                            <strong> Me encanta! Mi lugar favorito de comida italiana en San José</strong>
+                            El lugar esta muy limpio y bonito, el trato de los colaboradores y l comida increíblemente
+                            deliciosa! Pasta di roberto sin duda mi favorita! Los precios bastante accesibles!!!
+                        </div>
+                    </div>
+                </div>
+
+                
+
                 <div class="slide-item">
                     <div class="slide-content">
                         <div class="quotes">”</div>
@@ -884,13 +876,9 @@
                         </div>
                     </div>
                 </div>
-                <div class="slide-item">
-                    <div class="slide-content">
-                        <div class="quotes">”</div>
-                        <div class="text quote-text">Excelente lugar para celebrar cualquier cosa o simplemente ir a
-                            pasarla bien.</div>
-                    </div>
-                </div>
+
+                
+
                 <div class="slide-item">
                     <div class="slide-content">
                         <div class="quotes">”</div>
@@ -899,6 +887,7 @@
                         </div>
                     </div>
                 </div>
+
             </div>
             <div class="separator"><span></span><span></span><span></span></div>
             <div class="thumbs-carousel-box">
@@ -908,23 +897,27 @@
                         <div class="auth-title">maggieMor12</div>
                     </div>
                     <div class="slide-item">
+                        <div class="image"><img src="images/resource/author-thumb-2.jpg" alt=""></div>
+                        <div class="auth-title">Joy Ross</div>
+                    </div>
+
+                    <div class="slide-item">
+                        <div class="image"><img src="images/resource/author-thumb-3.jpg" alt=""></div>
+                        <div class="auth-title">LauraM</div>
+                    </div>
+
+                    <div class="slide-item">
                         <div class="image"><img src="images/resource/author-thumb-1.jpg" alt=""></div>
                         <div class="auth-title">DanielaP1351</div>
                     </div>
+                   
                     <div class="slide-item">
-                        <div class="image"><img src="images/resource/author-thumb-1.jpg" alt=""></div>
-                        <div class="auth-title">Joy Ross</div>
-                    </div>
-                    <div class="slide-item">
-                        <div class="image"><img src="images/resource/author-thumb-1.jpg" alt=""></div>
+                        <div class="image"><img src="images/resource/author-thumb-2.jpg" alt=""></div>
                         <div class="auth-title">Kevin Hawkins</div>
                     </div>
+                    
                     <div class="slide-item">
-                        <div class="image"><img src="images/resource/author-thumb-1.jpg" alt=""></div>
-                        <div class="auth-title">LauraM</div>
-                    </div>
-                    <div class="slide-item">
-                        <div class="image"><img src="images/resource/author-thumb-1.jpg" alt=""></div>
+                        <div class="image"><img src="images/resource/author-thumb-3.jpg" alt=""></div>
                         <div class="auth-title">DavidP</div>
                     </div>
                 </div>
