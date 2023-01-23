@@ -12,13 +12,11 @@
                             <div class="content">
                                 <div class="clearfix">
                                     <div class="inner">
-                                        <div class="subtitle"><span>No hay nada más romántico que la comida
-                                                italiana</span></div>
+                                        <div class="subtitle"><span>Casa de la auténtica comida Italiana</span></div>
                                         <div class="pattern-image"><img src="images/icons/separator.svg" alt=""
                                                 title=""></div>
                                         <h2><span>Fiorenza Ristorante <br> Italiano</span></h2>
-                                        <div class="text">Tiene el poder de conquistar a las personas y hasta a los
-                                            paladares más exigentes</div>
+                                        <div class="text">Ven y degusta nuestra exquisita comida</div>
                                         <div class="links-box wow fadeInUp" data-wow-delay="0ms"
                                             data-wow-duration="1500ms">
                                             <div class="link">
@@ -79,12 +77,12 @@
                             <div class="content">
                                 <div class="clearfix">
                                     <div class="inner">
-                                        <div class="subtitle"><span>Casa de la auténtica comida Italiana</span></div>
+                                        <div class="subtitle"><span>No hay nada más romántico que la comida italiana</span></div>
                                         <div class="pattern-image"><img src="images/icons/separator.svg" alt=""
                                                 title=""></div>
-                                        <h2><span>Tiene el poder de conquistar <br> a las personas y hasta a los <br>
-                                                paladares más exigentes</span></h2>
-                                        <div class="text">Deja que nuestro sabor inunde tu paladar</div>
+                                        <h2><span>Tiene el poder de conquistar a las personas </span></h2>
+                                        <div class="text">Y hasta a los
+                                                paladares más exigentes</div>
                                         <div class="links-box clearfix">
                                             <div class="link">
                                                 <a target="_blank"
@@ -178,7 +176,7 @@
                             En 2012 desde la ciudad de Florencia, llega el Chef Roberto Persi y su esposa Fiorenza. Que
                             trabajando duro traen lo mejor de Italia a Los Cabos, rescatando las recetas auténticas y
                             tradicionales de su lugar de origen. <br>
-                            Perteneciente al Grupo ALCARI.
+                            Perteneciendo ahora al Grupo ALCARI.
                         </div>
                     </div>
                     <div class="booking-info">
@@ -219,7 +217,7 @@
     <div class="right-bg"><img src="images/background/bg-7.png" alt="" title=""></div> -->
     <div class="auto-container">
         <div class="title-box centered">
-            <div class="subtitle"><span>¿Porqué elegirnos?</span></div>
+            <div class="subtitle"><span>¿Por qué elegirnos?</span></div>
             <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
             <h2>Algo grandioso te espera</h2>
         </div>
@@ -290,7 +288,7 @@
                             <strong>ESTHER RODRIGUEZ</strong><br>
                             <h6> CHEF EJECUTIVA</h6> <br>
                             Con una gran experiencia de más de 10 años, la chef ha trabajado con las recetas originales
-                            que el Chef Roberto Persi ysu esposa Fiorenza han traído desde su natal Italia. Preservando
+                            que el Chef Roberto Persi y su esposa Fiorenza han traído desde su natal Italia. Preservando
                             así, el sabor auténtico de Florencia hasta su mesa.
                         </div>
                     </div>
@@ -469,6 +467,12 @@
                             data-fancybox="gallery"><img src="images/resource/gallery-9.jpg" alt=""></a></div>
                 </div>
 
+                <!--Slide Item-->
+                <div class="gallery-block">
+                    <div class="image"><a href="images/resource/gallery-10.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><img src="images/resource/gallery-10.jpg" alt=""></a></div>
+                </div>
+
             </div>
         </div>
     </div>
@@ -626,17 +630,17 @@
             <div class="link-block alternate col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="inner wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
                     <div class="image-box">
-                        <div class="image-layer" style="background-image: url(images/resource/featured-2.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(images/resource/featured-2.jpg?=1);"></div>
                         <div class="image"><img src="images/resource/featured-2.jpg" alt=""></div>
                     </div>
                     <div class="text-block">
                         <div class="bl-inner">
                             <div class="content">
-                                <div style="color: #fff; text-shadow:3px 2px 1px #000; font-size:1rem" class="subtitle">
+                                <div class="subtitle">
                                     Fiorenza Ristorante Italiano by Grupo</div>
                                 <img src="images/alcari.png" alt="" style="width:10rem;">
                                 <!-- <div class="text">Auténtica comida Italiana</div> -->
-                                <div class="link"><a style="color: #fff; text-shadow:3px 2px 1px #000; font-size:1rem"
+                                <div class="link"><a
                                         target="_blank"
                                         href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=45696517-027b-40c2-9d97-1e810acc89bd"
                                         class="theme-btn"><span>Reservar</span></a></div>
@@ -736,13 +740,13 @@
 <!-- mapa -->
 <section class="mapa" style="filter: grayscale(70%);">
     <div class="title-box centered mt-5 mb-5" id="contacto">
-        <div class="subtitle"><span>Descubre la mejor experiencia culinaria</span></div>
+        <div class="subtitle"><span>Situado en el corazón de San José</span></div>
         <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
-        <h2>Situado en el corazón de San José</h2>
+        <h2>Contáctanos</h2>
     </div>
 
     <div class="container mb-5">
-        <div class="row">
+        <div hidden class="row">
             <div class="col-md-6">
                 <h3 style="text-align: center;">¡Contáctanos! <br>Estamos para servirte</h3>
 
@@ -757,23 +761,26 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-md-6">
+            <div hidden class="col-md-6">
                 <h3 style="text-align: center;">Nos encuentras en las siguientes plataformas:</h3>
                 <div class="row text-center mt-5">
                     <div class="col-md-4">
-                        <a target="_blank" href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d3644605-Reviews-Fiorenza-San_Jose_del_Cabo_Los_Cabos_Baja_California.html">
+                        <a target="_blank"
+                            href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d3644605-Reviews-Fiorenza-San_Jose_del_Cabo_Los_Cabos_Baja_California.html">
                             <img width="35px" src="/images/trip.png" alt="">
                             <span style="color: #fff;font-size:1.4rem;">TripAdvisor</span>
                         </a>
                     </div>
                     <div class="col-md-4">
-                        <a target="_blank" href="https://www.yelp.com/biz/fiorenza-restaurant-san-jos%C3%A9-del-cabo?osq=fiorenza+los+cabos">
+                        <a target="_blank"
+                            href="https://www.yelp.com/biz/fiorenza-restaurant-san-jos%C3%A9-del-cabo?osq=fiorenza+los+cabos">
                             <img width="40px" src="/images/yelp.png" alt="">
                             <span style="color: #fff;font-size:1.4rem;">Yelp</span>
                         </a>
                     </div>
                     <div class="col-md-4">
-                        <a target="_blank" href="https://www.opentable.com.mx/r/fiorenza-los-cabos-san-jose-del-cabo?ref=16420">
+                        <a target="_blank"
+                            href="https://www.opentable.com.mx/r/fiorenza-los-cabos-san-jose-del-cabo?ref=16420">
                             <img width="140px" src="/images/open.png" alt="">
                             <!-- <span style="color: #fff;font-size:1.4rem;">OpenTable</span> -->
                         </a>
@@ -781,33 +788,81 @@
                 </div>
 
             </div>
-            <!-- <div class="col-md-4">
-                <h3 style="text-align: center;">¡Síguenos en nuestras redes sociales!</h3>
 
-                <ul>
-                    <li style="margin-top: 25px;">
-                        <a href="https://www.facebook.com/FiorenzaLosCabos001/">
-                            <img width="40px" src="/images/fb.png" alt="">
-                            <span style="color: #fff;font-size:1.4rem;">Fiorenza Ristorante Italiano</span>
-                        </a>
-
-                    </li>
-                    <li  style="margin-top: 25px;">
-                        <a href="https://www.instagram.com/fiorenzaloscabos/">
-                            <img width="40px" src="/images/insta.png" alt="">
-                            <span style="color: #fff;font-size:1.4rem;">@fiorenzaloscabos</span>
-                        </a>
-                    </li>
-                </ul>
-            </div> -->
         </div>
+        <div class="row">
+            <div class="col-md-6">
+                <!-- <h3 style="text-align: center;">Nos encuentras en las siguientes plataformas:</h3> -->
+                <div class="info mb-5" style="margin-top: 3rem;">
+                    <ul>
+                        <li style="text-align: justify !important;">
+                            
+                           <h5><i class="icon far fa-phone"></i> Teléfono  <br> </h5><a href="tel:(624) 142-1652">(624) 142-1652</a>
+                        </li> <br><br>
+                        <li style="text-align: justify !important;">
+                        <h5><i class="icon far fa-envelope"></i> Correo: <br></h5>
+                            
+                            <a href="mailto:info@fiorenzaloscabos.com">info@fiorenzaloscabos.com</a>
+                        </li>
+                    </ul>
+                </div>
+
+
+                <div class="redes-reserva mb-5">
+                    <a target="_blank"
+                        href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d3644605-Reviews-Fiorenza-San_Jose_del_Cabo_Los_Cabos_Baja_California.html">
+                        <img width="35px" src="/images/trip.png" alt="">
+                        <span style="color: #fff;font-size:1.4rem;">TripAdvisor</span>
+                    </a>
+                    <a target="_blank"
+                        href="https://www.yelp.com/biz/fiorenza-restaurant-san-jos%C3%A9-del-cabo?osq=fiorenza+los+cabos">
+                        <img width="40px" src="/images/yelp.png" alt="">
+                        <span style="color: #fff;font-size:1.4rem;">Yelp</span>
+                    </a>
+                    <a target="_blank"
+                        href="https://www.opentable.com.mx/r/fiorenza-los-cabos-san-jose-del-cabo?ref=16420">
+                        <img width="140px" src="/images/open.png" alt="">
+                        <!-- <span style="color: #fff;font-size:1.4rem;">OpenTable</span> -->
+                    </a>
+                </div>
+
+                <!-- <div class="col-md-4">
+                        <a target="_blank"
+                            href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d3644605-Reviews-Fiorenza-San_Jose_del_Cabo_Los_Cabos_Baja_California.html">
+                            <img width="35px" src="/images/trip.png" alt="">
+                            <span style="color: #fff;font-size:1.4rem;">TripAdvisor</span>
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a target="_blank"
+                            href="https://www.yelp.com/biz/fiorenza-restaurant-san-jos%C3%A9-del-cabo?osq=fiorenza+los+cabos">
+                            <img width="40px" src="/images/yelp.png" alt="">
+                            <span style="color: #fff;font-size:1.4rem;">Yelp</span>
+                        </a>
+                    </div>
+                    <div class="col-md-4">
+                        <a target="_blank"
+                            href="https://www.opentable.com.mx/r/fiorenza-los-cabos-san-jose-del-cabo?ref=16420">
+                            <img width="140px" src="/images/open.png" alt="">
+                             <span style="color: #fff;font-size:1.4rem;">OpenTable</span>
+                        </a>
+                    </div> -->
+
+
+            </div>
+            <div class="col-md-6">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1754.939255623464!2d-109.69449846841431!3d23.0602036855935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509e9c090435%3A0x597a2d0b5755c811!2sFiorenza%20Italian%20Restaurant!5e0!3m2!1ses-419!2smx!4v1672270501954!5m2!1ses-419!2smx"
+                    width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+
+
     </div>
 
 
-    <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1754.939255623464!2d-109.69449846841431!3d23.0602036855935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509e9c090435%3A0x597a2d0b5755c811!2sFiorenza%20Italian%20Restaurant!5e0!3m2!1ses-419!2smx!4v1672270501954!5m2!1ses-419!2smx"
-        width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 </section>
 
 
@@ -863,7 +918,7 @@
                     </div>
                 </div>
 
-                
+
 
                 <div class="slide-item">
                     <div class="slide-content">
@@ -877,7 +932,7 @@
                     </div>
                 </div>
 
-                
+
 
                 <div class="slide-item">
                     <div class="slide-content">
@@ -910,12 +965,12 @@
                         <div class="image"><img src="images/resource/author-thumb-1.jpg" alt=""></div>
                         <div class="auth-title">DanielaP1351</div>
                     </div>
-                   
+
                     <div class="slide-item">
                         <div class="image"><img src="images/resource/author-thumb-2.jpg" alt=""></div>
                         <div class="auth-title">Kevin Hawkins</div>
                     </div>
-                    
+
                     <div class="slide-item">
                         <div class="image"><img src="images/resource/author-thumb-3.jpg" alt=""></div>
                         <div class="auth-title">DavidP</div>

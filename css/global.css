@@ -491,6 +491,7 @@ a:active,
 button:active{
     text-decoration:none;
     outline:none;
+    color: #fff;
 }
 
 h1{
