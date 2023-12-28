@@ -21,6 +21,7 @@
                                             data-wow-duration="1500ms">
                                             <div class="link">
                                                 <a target="_blank"
+                                                    onclick="gtag('event', 'click', {'event_category': 'reserva','event_label': 'opentable'});"
                                                     href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=28e8fc3b-bf66-4d0c-b80d-44111890b98b"
                                                     class="theme-btn btn-style-two clearfix">
                                                     <span class="btn-wrap">
@@ -77,12 +78,13 @@
                             <div class="content">
                                 <div class="clearfix">
                                     <div class="inner">
-                                        <div class="subtitle"><span>No hay nada más romántico que la comida italiana</span></div>
+                                        <div class="subtitle"><span>No hay nada más romántico que la comida
+                                                italiana</span></div>
                                         <div class="pattern-image"><img src="images/icons/separator.svg" alt=""
                                                 title=""></div>
                                         <h2><span>Tiene el poder de conquistar a las personas </span></h2>
                                         <div class="text">Y hasta a los
-                                                paladares más exigentes</div>
+                                            paladares más exigentes</div>
                                         <div class="links-box clearfix">
                                             <div class="link">
                                                 <a target="_blank"
@@ -133,7 +135,7 @@
             <div class="offer-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
                     <div class="image"><a href="#"><img src="images/resource/offer-image-1.jpg" alt=""></a></div>
-                    <h3><a href="#">Pastas</a></h3>
+                    <h3><a href="#menu">Pastas</a></h3>
                     <!-- <div class="more-link"><a href="#">view menu</a></div> -->
                 </div>
             </div>
@@ -142,7 +144,7 @@
             <div class="offer-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
                     <div class="image"><a href="#"><img src="images/resource/offer-image-2.jpg" alt=""></a></div>
-                    <h3><a href="#">Pizzas</a></h3>
+                    <h3><a href="#menu">Pizzas</a></h3>
                     <!-- <div class="more-link"><a href="menu-list-2.html">view menu</a></div> -->
                 </div>
             </div>
@@ -151,7 +153,7 @@
             <div class="offer-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
                     <div class="image"><a href="#"><img src="images/resource/offer-image-3.jpg" alt=""></a></div>
-                    <h3><a href="#">Bebidas</a></h3>
+                    <h3><a href="#menu">Bebidas</a></h3>
                     <!-- <div class="more-link"><a href="#">view menu</a></div> -->
                 </div>
             </div>
@@ -328,56 +330,104 @@
                     <li class="tab-btn" data-tab="#tab-2"><span>Pastas</span></li>
                     <li class="tab-btn" data-tab="#tab-3"><span>Pizzas</span></li>
                     <li class="tab-btn" data-tab="#tab-4"><span>Platos únicos</span></li>
+                    <li class="tab-btn" data-tab="#tab-7"><span>Postres</span></li>
                     <li class="tab-btn" data-tab="#tab-5"><span>Coctelería</span></li>
                     <li class="tab-btn" data-tab="#tab-6"><span>Bebidas</span></li>
+                    <li class="tab-btn" data-tab="#tab-8"><span>Vinos</span></li>
                 </ul>
             </div>
             <div class="tabs-content">
                 <!--Tab-->
                 <div class="tab active-tab" id="tab-1">
                     <div class="row clearfix justify-content-center text-center">
-                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                            <img width="500px" src="/images/menu/02.jpg" alt="">
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/entradas.jpg" alt="">
+                        </div>
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/appetizers.jpg" alt="">
                         </div>
                     </div>
                 </div>
                 <!--Tab-->
                 <div class="tab" id="tab-2">
                     <div class="row clearfix justify-content-center text-center">
-                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                            <img width="500px" src="/images/menu/03.jpg" alt="">
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/especiales.jpg" alt="">
+                        </div>
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/pastaEng.jpg" alt="">
                         </div>
                     </div>
                 </div>
                 <!--Tab-->
                 <div class="tab" id="tab-3">
                     <div class="row clearfix justify-content-center text-center">
-                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                            <img width="500px" src="/images/menu/04.jpg" alt="">
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/pizza.jpg" alt="">
+                        </div>
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/pizzaEng.jpg" alt="">
                         </div>
                     </div>
                 </div>
                 <!--Tab-->
                 <div class="tab" id="tab-4">
                     <div class="row clearfix justify-content-center text-center">
-                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                            <img width="500px" src="/images/menu/06.jpg" alt="">
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/unicos.jpg" alt="">
+                        </div>
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/unicosEng.jpg" alt="">
                         </div>
                     </div>
                 </div>
 
                 <div class="tab" id="tab-5">
                     <div class="row clearfix justify-content-center text-center">
-                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                            <img width="500px" src="/images/menu/05.jpg" alt="">
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/coctel.jpg" alt="">
+                        </div>
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/coctelEng.jpg" alt="">
                         </div>
                     </div>
                 </div>
 
                 <div class="tab" id="tab-6">
                     <div class="row clearfix justify-content-center text-center">
-                        <div class="menu-col col-lg-12 col-md-12 col-sm-12">
-                            <img width="500px" src="/images/menu/01.jpg" alt="">
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/bebidas.jpg" alt="">
+                        </div>
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/drinks.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tab" id="tab-7">
+                    <div class="row clearfix justify-content-center text-center">
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/postre.jpg" alt="">
+                        </div>
+                        <div class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/postreEng.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tab" id="tab-8">
+                    <div class="row clearfix justify-content-center text-center">
+                        <div style="margin-top: 10px; margin-bottom:10px" class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/vino1.jpg" alt="">
+                        </div>
+                        <div style="margin-top: 10px; margin-bottom:10px" class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/vino2.jpg" alt="">
+                        </div>
+                        <div style="margin-top: 10px; margin-bottom:10px" class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/vino3.jpg" alt="">
+                        </div>
+                        <div style="margin-top: 10px; margin-bottom:10px" class="menu-col col-lg-6 col-md-6 col-sm-12">
+                            <img width="500px" src="images/menu/vino4.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -630,7 +680,8 @@
             <div class="link-block alternate col-xl-4 col-lg-4 col-md-6 col-sm-12">
                 <div class="inner wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
                     <div class="image-box">
-                        <div class="image-layer" style="background-image: url(images/resource/featured-2.jpg?=1);"></div>
+                        <div class="image-layer" style="background-image: url(images/resource/featured-2.jpg?=1);">
+                        </div>
                         <div class="image"><img src="images/resource/featured-2.jpg" alt=""></div>
                     </div>
                     <div class="text-block">
@@ -640,8 +691,7 @@
                                     Fiorenza Ristorante Italiano by Grupo</div>
                                 <img src="images/alcari.png" alt="" style="width:10rem;">
                                 <!-- <div class="text">Auténtica comida Italiana</div> -->
-                                <div class="link"><a
-                                        target="_blank"
+                                <div class="link"><a target="_blank"
                                         href="https://www.opentable.com.mx/restref/client/?restref=1011607&lang=es-MX&corrid=45696517-027b-40c2-9d97-1e810acc89bd"
                                         class="theme-btn"><span>Reservar</span></a></div>
                             </div>
@@ -686,9 +736,7 @@
                 <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
                 <h2>Ve un poco de nosotros</h2>
             </div>
-            <div class="play-btn"><a href="https://www.youtube.com/watch?v=ZETY_l3GVQg&amp;autoplay=1"
-                    class="lightbox-image theme-btn"><span class="icon fal fa-play"><i class="ripple"></i></span></a>
-            </div>
+
             <div class="separator"><span></span><span></span><span></span></div>
             <h3>El mejor restaurante Italiano en el corazón de San José</h3>
         </div>
@@ -796,12 +844,13 @@
                 <div class="info mb-5" style="margin-top: 3rem;">
                     <ul>
                         <li style="text-align: justify !important;">
-                            
-                           <h5><i class="icon far fa-phone"></i> Teléfono  <br> </h5><a href="tel:(624) 142-1652">(624) 142-1652</a>
+
+                            <h5><i class="icon far fa-phone"></i> Teléfono <br> </h5><a href="tel:(624) 142-1652">(624)
+                                142-1652</a>
                         </li> <br><br>
                         <li style="text-align: justify !important;">
-                        <h5><i class="icon far fa-envelope"></i> Correo: <br></h5>
-                            
+                            <h5><i class="icon far fa-envelope"></i> Correo: <br></h5>
+
                             <a href="mailto:info@fiorenzaloscabos.com">info@fiorenzaloscabos.com</a>
                         </li>
                     </ul>
